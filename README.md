@@ -13,6 +13,13 @@ The aim is to support consistent, standards-driven editing practices across scie
 
 ---
 
+## Download
+
+You can download the latest version of the manual here:  
+[📄 Genetics in Medicine Technical Editors Manual (PDF)](Genetics_In_Medicine_Technic_Editors_Manual.pdf)
+
+---
+
 ## Citation
 If you use or adapt this manual in teaching, research, or other works, please cite:
 
