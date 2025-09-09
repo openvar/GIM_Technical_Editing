@@ -18,6 +18,11 @@ The aim is to support consistent, standards-driven editing practices across scie
 You can download the latest version of the manual here:  
 [📄 Genetics in Medicine Technical Editors Manual (PDF)](Genetics_In_Medicine_Technic_Editors_Manual.pdf)
 
+When viewing this link on GitHub, the PDF will open in the browser.  
+To download a copy, click the **“Download”** button (see image below) in the top-right corner of the viewer (or use your browser’s save option).
+
+![Download button](assets/Screenshot 2025-09-09 at 14.54.13.png)
+
 ---
 
 ## Citation
