@@ -21,7 +21,7 @@ You can download the latest version of the manual here:
 When viewing this link on GitHub, the PDF will open in the browser.  
 To download a copy, click the **“Download”** button (see image below) in the top-right corner of the viewer (or use your browser’s save option).
 
-![Download button](assets/Screenshot 2025-09-09 at 14.54.13.png)
+![Download button](assets/download_button.png)
 
 ---
 
