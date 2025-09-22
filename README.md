@@ -16,7 +16,7 @@ The aim is to support consistent, standards-driven editing practices across scie
 ## Download
 
 You can download the latest version of the manual here:  
-[📄 GIM_Technical_Editing_Manual_v1.0.0.pdf](Genetics_In_Medicine_Technic_Editors_Manual.pdf)
+[📄 GIM_Technical_Editing_Manual_v1.0.0.pdf](GIM_Technical_Editing_Manual_v1.0.0.pdf)
 
 When viewing this link on GitHub, the PDF will open in the browser.  
 To download a copy, click the **“Download”** button (see image below) in the top-right corner of the viewer (or use your browser’s save option).
